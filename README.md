@@ -1,4 +1,4 @@
-# sudoku_solver
+# Sudoku Solver
 A multithreaded sudoku solver written in Rust.
 
 Uses a simple backtracking algorithm.
