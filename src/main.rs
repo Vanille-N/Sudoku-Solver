@@ -1,6 +1,3 @@
-extern crate scoped_threadpool;
-extern crate rayon;
-
 use std::io::{self, BufRead};
 use std::fmt;
 use std::ops;
