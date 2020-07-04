@@ -1,4 +1,7 @@
 # Sudoku Solver
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A multithreaded sudoku solver written in Rust.
 
 Uses a simple backtracking algorithm.

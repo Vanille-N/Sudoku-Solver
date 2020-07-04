@@ -9,3 +9,6 @@ edition = "2018"
 [dependencies]
 scoped_threadpool = "0.1.*"
 rayon = "1.0.*"
+
+# [profile.release]
+# debug = true
